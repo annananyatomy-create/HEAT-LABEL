@@ -1,0 +1,6 @@
+{
+  "name": "HEAT LABEL",
+  "description": "Sustainable Heat Treatment Management System with MySQL, Java JDBC, energy monitoring, carbon emissions calculation, and UN SDG metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
